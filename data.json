@@ -1,0 +1,55 @@
+{
+    "firstName": "Aarnav",
+    "lastName": "Sanghvi",
+    "email": "aarnav@gmail.com",
+    "githubUrl": "github.com/saarnav890",
+    "instagramUrl": "instagram.com/someUser",
+    "twitterUrl": "twitter.com/aarnavsanghvi",
+    "jobDescription": "A 19-year old software engineer who loves to innovate",
+    "aboutText": "I am Anas Saeed, a student at UC Merced. I am an outgoing and creative fullstack engineer who loves to learn and explore new technologies. I have extensive experience in making enterprise software, and I am always looking for new opportunities to develop my skills. I have a strong background in Javascript, Machine Learning, and Python, which I have used to build a wide array of projects. I also enjoy anime, manga, and hiking.",
+    "projects": [
+      {
+        "title": "first project",
+        "description": "some cool description",
+        "url": "https://github.com/someurl",
+        "stars": 0,
+        "language": "Javascript"
+      },
+      {
+        "title": "second project",
+        "description": "some cool description",
+        "url": "github.com/someurl",
+        "stars": 0,
+        "language": "Javascript"
+      },
+      {
+        "title": "third project",
+        "description": "some cool description",
+        "url": "github.com/someurl",
+        "stars": 0,
+        "language": "Javascript"
+      },
+      {
+        "title": "fourth project",
+        "description": "some cool description",
+        "url": "github.com/someurl",
+        "stars": 0,
+        "language": "Javascript"
+      },
+      {
+        "title": "5th project",
+        "description": "some cool description",
+        "url": "github.com/someurl",
+        "stars": 0,
+        "language": "Javascript"
+      },
+      {
+        "title": "asdfasdf5t project",
+        "description": "some cool description",
+        "url": "https://github.com/saarnav890",
+        "stars": 0,
+        "language": "Javascript"
+      }
+      
+    ]
+  }
